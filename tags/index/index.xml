@@ -6,27 +6,27 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>index on DigitalStationol - The digital world is a magical place </title>
-    <link>https://digitalstationol.com/tags/index/</link>
-    <description>Recent content in index on DigitalStationol - The digital world is a magical place </description>
+    <title>index on bytespacex - The digital world is a magical place </title>
+    <link>https://bytespacex.com/tags/index/</link>
+    <description>Recent content in index on bytespacex - The digital world is a magical place </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>digitalstationol@outlook.com (DigitalStationol)</managingEditor>
-    <webMaster>digitalstationol@outlook.com (DigitalStationol)</webMaster>
-    <copyright>©2025, digitalstationol.com, Licensed Under</copyright>
+    <managingEditor>bytespacex@outlook.com (bytespacex)</managingEditor>
+    <webMaster>bytespacex@outlook.com (bytespacex)</webMaster>
+    <copyright>©2025, bytespacex.com, Licensed Under</copyright>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
-        <atom:link href="https://digitalstationol.com/tags/index/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://bytespacex.com/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Posts</title>
-        <link>https://digitalstationol.com/posts/</link>
+        <link>https://bytespacex.com/posts/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>digitalstationol@outlook.com (DigitalStationol)</author>
+        <author>bytespacex@outlook.com (bytespacex)</author>
         
-        <guid>https://digitalstationol.com/posts/</guid>
+        <guid>https://bytespacex.com/posts/</guid>
         <description></description>
         
         <dc:creator>Hugo Authors</dc:creator>

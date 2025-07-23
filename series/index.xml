@@ -6,17 +6,17 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Series on DigitalStationol - The digital world is a magical place </title>
-    <link>https://digitalstationol.com/series/</link>
-    <description>Recent content in Series on DigitalStationol - The digital world is a magical place </description>
+    <title>Series on bytespacex - The digital world is a magical place </title>
+    <link>https://bytespacex.com/series/</link>
+    <description>Recent content in Series on bytespacex - The digital world is a magical place </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>digitalstationol@outlook.com (DigitalStationol)</managingEditor>
-    <webMaster>digitalstationol@outlook.com (DigitalStationol)</webMaster>
-    <copyright>©2025, digitalstationol.com, Licensed Under</copyright>
+    <managingEditor>bytespacex@outlook.com (bytespacex)</managingEditor>
+    <webMaster>bytespacex@outlook.com (bytespacex)</webMaster>
+    <copyright>©2025, bytespacex.com, Licensed Under</copyright>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
-        <atom:link href="https://digitalstationol.com/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://bytespacex.com/series/index.xml" rel="self" type="application/rss+xml" />
     
 
       

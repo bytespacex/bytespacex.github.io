@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://digitalstationol.com/languages/categories/</loc>
+    <loc>https://bytespacex.com/languages/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://digitalstationol.com/categories/"
+                href="https://bytespacex.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="languages"
-                href="https://digitalstationol.com/languages/categories/"
+                href="https://bytespacex.com/languages/"
                 />
   </url><url>
-    <loc>https://digitalstationol.com/languages/</loc>
+    <loc>https://bytespacex.com/languages/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://digitalstationol.com/"
+                href="https://bytespacex.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="languages"
-                href="https://digitalstationol.com/languages/"
+                href="https://bytespacex.com/languages/categories/"
                 />
   </url><url>
-    <loc>https://digitalstationol.com/languages/series/</loc>
+    <loc>https://bytespacex.com/languages/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://digitalstationol.com/series/"
+                href="https://bytespacex.com/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="languages"
-                href="https://digitalstationol.com/languages/series/"
+                href="https://bytespacex.com/languages/series/"
                 />
   </url><url>
-    <loc>https://digitalstationol.com/languages/tags/</loc>
+    <loc>https://bytespacex.com/languages/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://digitalstationol.com/tags/"
+                href="https://bytespacex.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="languages"
-                href="https://digitalstationol.com/languages/tags/"
+                href="https://bytespacex.com/languages/tags/"
                 />
   </url>
 </urlset>

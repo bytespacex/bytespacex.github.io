@@ -1,4 +1,4 @@
 # robots.txt
 User-agent: *
 Disallow: /showcase/
-Sitemap: https://digitalstationol.com/en/sitemap.xml
+Sitemap: https://bytespacex.com/en/sitemap.xml
